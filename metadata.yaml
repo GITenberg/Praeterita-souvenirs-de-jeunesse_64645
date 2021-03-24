@@ -1,0 +1,40 @@
+_repo: Praeterita-souvenirs-de-jeunesse_64645
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: La Sizeranne, Robert de
+    aliases:
+    - De la Sizeranne, Robert
+    - Sizeranne, Robert de la
+    birthdate: 1866
+    deathdate: 1932
+    gutenberg_agent_id: '45428'
+    url: http://www.gutenberg.org/2009/agents/45428
+  translator:
+    agent_name: Paris, Mme Gaston
+    gutenberg_agent_id: '52996'
+    url: http://www.gutenberg.org/2009/agents/52996
+creator:
+  author:
+    agent_name: Ruskin, John
+    alias: Ruskin, J. (John)
+    birthdate: 1819
+    deathdate: 1900
+    gutenberg_agent_id: '359'
+    url: http://www.gutenberg.org/2009/agents/359
+    wikipedia: https://en.wikipedia.org/wiki/John_Ruskin
+description: ''
+gutenberg_issued: '2021-02-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64645'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Praeterita
+
+  souvenirs de jeunesse'
+url: http://www.gutenberg.org/ebooks/64645
